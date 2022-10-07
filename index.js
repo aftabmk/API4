@@ -4,7 +4,7 @@ const cors = require('cors')
 
 const url = 'https://kf8gy9csr0.execute-api.ap-south-1.amazonaws.com/webapi/index/activeStockList'
 
-const path = 'index'
+const path = 'filter'
 
 async function f()
 
